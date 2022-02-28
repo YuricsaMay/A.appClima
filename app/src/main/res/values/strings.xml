@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23°</string>
+    <string name="texto_ciudad">Ciudad de Cancún</string>
+    <string name="texto_estatus">Nublado</string>
+
+    <string name="texto_bienvenida">
+        Bienvenido a mi app clima, aqui podra ver el clima de las siguientes
+        ciudades de Quintana Roo,solo seleccione alguna de las opciones de abajo.
+    </string>
+    <string name="texto_boton_cancun">Clima de la ciudad de Cancún</string>
+    <string name="texto_boton_chetumal">Clima de la ciudad de Chetumal</string>
+    <string name="texto_boton_bacalar">Clima de la ciudad de Bacalar</string>
+    <string name="texto_boton_isla">Clima de la ciudad de Tulum</string>
+</resources>
